@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.2
+### Changed
+- The original mod file is now downloaded automatically on first start (needs ArchaicLib 1.42.0+): sources and mirrors are listed in `config/archaiclib/originals/` and can be edited there. If the download fails, a banner on the main menu links to the manual download.
+
 ## 2.3.1
 - Fixed all mob sounds being silent (sound names in sounds.json resolved to `minecraft:`).
 

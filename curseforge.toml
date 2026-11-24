@@ -1,6 +1,6 @@
 project_id = 1816902
-jar = "build/libs/weirdmobsmod-2.3.1.jar"
-display_name = "Weird Mobs Port 2.3.1"
+jar = "build/libs/weirdmobsmod-2.3.2.jar"
+display_name = "Weird Mobs Port 2.3.2"
 changelog = "CHANGELOG.md"
 changelog_type = "markdown"
 changelog_latest_only = true

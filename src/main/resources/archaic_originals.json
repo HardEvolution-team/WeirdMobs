@@ -1,0 +1,18 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "weirdmobsmod",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "Weird-MobsV1.3.jar",
+      "name": "Weird-MobsV1.3.jar - Weird Mobs Continuation 1.3 for 1.7.10 (quentin452; original by ZurraGameZ and UKdeccy)",
+      "sha256": "1659ee71ce56f0a0c673beb2debf0f300009a2e3b3ba7057dedff898051aaa39",
+      "size": 4515158,
+      "page": "https://github.com/quentin452/Weird-mobs-Continuation/releases/tag/V1.3",
+      "mirrors": [
+        "https://github.com/quentin452/Weird-mobs-Continuation/releases/download/V1.3/Weird-MobsV1.3.jar"
+      ]
+    }
+  ]
+}
